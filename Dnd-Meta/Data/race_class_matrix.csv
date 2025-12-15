@@ -1,0 +1,10 @@
+Race,Barbarian,Bard,Cleric,Fighter,Paladin,Rogue,Warlock,Wizard
+Dragonborn,0,0,0,0,1,0,0,0
+Dwarf,0,0,1,0,0,0,0,0
+Elf,0,0,0,0,0,0,0,1
+Gnome,0,1,0,0,0,0,0,0
+HUMAN,0,0,0,1,0,0,0,0
+Half-Orc,1,0,0,0,0,0,0,0
+Halfling,0,0,0,0,0,1,0,0
+Tiefling,0,0,0,0,0,0,1,0
+elf,0,0,0,0,0,0,0,1

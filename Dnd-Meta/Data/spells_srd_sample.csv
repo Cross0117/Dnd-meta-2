@@ -1,0 +1,6 @@
+Name,Level,School,CastingTime,Range,Components,Duration,Ritual,Concentration,Classes
+Magic Missile,1,Evocation,1 action,120 feet,V,S,Instantaneous,0,0,Wizard;Sorcerer
+Cure Wounds,1,Evocation,1 action,Touch,V,S,Instantaneous,0,0,Cleric;Druid;Bard
+Fire Bolt,0,Evocation,1 action,120 feet,V,S,Instantaneous,0,0,Wizard;Sorcerer
+Mage Hand,0,Conjuration,1 action,30 feet,V,S,1 minute,0,0,Wizard;Sorcerer;Warlock
+Bless,1,Enchantment,1 action,30 feet,V,S,M,1 minute,0,1,Cleric;Paladin

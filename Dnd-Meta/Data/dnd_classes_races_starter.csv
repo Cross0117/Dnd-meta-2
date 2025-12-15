@@ -1,0 +1,10 @@
+Race,Class,Subclass,Hit Die,Primary Ability,Proficiencies,Special Features,Tier (Power Level),Popularity
+Elf,Wizard,Evocation,d6,INT,"Daggers, darts, slings, quarterstaffs, light crossbows","Arcane Recovery, Spellcasting",High,High
+elf,Wizard,Illusion,d6,INT,"Daggers, darts, slings, quarterstaffs, light crossbows",,High,Medium
+HUMAN,Fighter,Champion,d10,STR/DEX,"All armor, shields, simple and martial weapons","Second Wind, Fighting Style",Mid,High
+Halfling,Rogue,Thief,d8,DEX,"Light armor, simple weapons, hand crossbows, longswords, shortswords, rapiers","Sneak Attack, Cunning Action",Mid,High
+Tiefling,Warlock,Fiend Pact,d8,CHA,"Light armor, simple weapons","Eldritch Invocations, Pact Magic",High,High
+Dwarf,Cleric,Life Domain,d8,WIS,"Light and medium armor, shields, simple weapons","Channel Divinity, Divine Domain",High,Medium
+Dragonborn,Paladin,Oath of Devotion,d10,STR/CHA,"All armor, shields, simple and martial weapons","Divine Sense, Lay on Hands",High,High
+Half-Orc,Barbarian,Berserker,d12,STR,"Light and medium armor, shields, simple and martial weapons","Rage, Reckless Attack",High,High
+Gnome,Bard,Lore College,d8,CHA,"Light armor, simple weapons, hand crossbows, longswords, shortswords, rapiers","Bardic Inspiration, Jack of All Trades",Mid,Medium
